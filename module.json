@@ -1,0 +1,88 @@
+{
+	"name": "spheres-5e",
+	"title": "Spheres of Power & Might (5e)",
+	"description": "Compendiums built for Spheres of Power & Might for D&D 5e. Built by 3.14.",
+	"author": "3.14",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.9.0",
+	"packs": [
+	{
+		"name": "casting-traditions-sop",
+		"label": "Casting Traditions (Spheres)",
+		"path": "./packs/casting-traditions-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "classes-sop",
+		"label": "Classes (Spheres)",
+		"path": "./packs/classes-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "class-features-sop",
+		"label": "Class Features (Spheres)",
+		"path": "./packs/class-features-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "feats-sop",
+		"label": "Feats (Spheres)",
+		"path": "./packs/feats-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "macros-sop",
+		"label": "Macros (Spheres)",
+		"path": "./packs/macros-sop.db",
+		"entity": "Macro",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "magic-abilities-sop",
+		"label": "Magic Abilities (Spheres)",
+		"path": "./packs/magic-abilities-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "magic-spheres-sop",
+		"label": "Magic Spheres (Spheres)",
+		"path": "./packs/magic-spheres-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "martial-abilities-sop",
+		"label": "Martial Abilities (Spheres)",
+		"path": "./packs/martial-abilities-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "martial-spheres-sop",
+		"label": "Martial Spheres (Spheres)",
+		"path": "./packs/martial-spheres-sop.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "rules-sop",
+		"label": "Rules (Spheres)",
+		"path": "./packs/rules-sop.db",
+		"entity": "JournalEntry",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "talents-and-packages-sop",
+		"label": "Talents & Packages (Spheres)",
+		"path": "./packs/talents-and-packages-sop.db",
+		"entity": "JournalEntry",
+		"module": "spheres-5e"
+	}
+	]
+}
