@@ -83,6 +83,41 @@
 		"path": "./packs/talents-and-packages-sop.db",
 		"entity": "JournalEntry",
 		"module": "spheres-5e"
+	},
+	{
+		"name": "alteration-features-spheres",
+		"label": "Alteration Features (Spheres)",
+		"path": "./packs/alteration-features-spheres.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "forms-and-summons-spheres",
+		"label": "Forms & Summons (Spheres)",
+		"path": "./packs/forms-and-summons-spheres.db",
+		"entity": "Actor",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "items-spheres",
+		"label": "Items (Spheres)",
+		"path": "./packs/items-spheres.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "martial-traditions-spheres",
+		"label": "Martial Traditions (Spheres)",
+		"path": "./packs/martial-traditions-spheres.db",
+		"entity": "Item",
+		"module": "spheres-5e"
+	},
+	{
+		"name": "subclasses-spheres",
+		"label": "Subclasses (Spheres)",
+		"path": "./packs/subclasses-spheres.db",
+		"entity": "Item",
+		"module": "spheres-5e"
 	}
 	]
 }
