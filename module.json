@@ -2,10 +2,14 @@
 	"name": "spheres-5e",
 	"title": "Spheres of Power & Might (5e)",
 	"description": "Compendiums built for Spheres of Power & Might for D&D 5e.",
+	"system": "dnd5e"
 	"author": "joshuakaras",
-	"version": "1.0.2",
-	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion": "9",
+	"version": "1.0.3",
+	"dependencies": [
+		{
+		"name": "midi-qol", "type": "module"
+		}
+	],
 	"packs": [
 	{
 		"name": "casting-traditions-sop",
@@ -120,6 +124,8 @@
 		"module": "spheres-5e"
 	}
 	],
+	"minimumCoreVersion": "9.245",
+	"compatibleCoreVersion": "9",
 	"url": "https://github.com/joshuakaras/spheres-5e",
 	"manifest": "https://raw.githubusercontent.com/joshuakaras/spheres-5e/main/module.json",
 	"download": "https://github.com/joshuakaras/spheres-5e/releases/download/release-1.0.0/spheres-5e-1.0.0.zip"
