@@ -2,7 +2,7 @@
 	"name": "spheres-5e",
 	"title": "Spheres of Power & Might (5e)",
 	"description": "Compendiums built for Spheres of Power & Might for D&D 5e.",
-	"system": "dnd5e"
+	"system": "dnd5e",
 	"author": "joshuakaras",
 	"version": "1.0.4",
 	"dependencies": [
