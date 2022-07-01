@@ -4,7 +4,7 @@
 	"description": "Compendiums built for Spheres of Power & Might for D&D 5e.",
 	"system": "dnd5e"
 	"author": "joshuakaras",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"dependencies": [
 		{
 		"name": "midi-qol", "type": "module"
