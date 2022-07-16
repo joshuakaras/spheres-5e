@@ -4,7 +4,7 @@
 	"description": "Compendiums built for Spheres of Power & Might for D&D 5e.",
 	"system": "dnd5e",
 	"author": "joshuakaras",
-	"version": "1.0.4",
+	"version": "1.1.0",
 	"dependencies": [
 		{
 		"name": "midi-qol", "type": "module"
@@ -128,5 +128,5 @@
 	"compatibleCoreVersion": "9",
 	"url": "https://github.com/joshuakaras/spheres-5e",
 	"manifest": "https://raw.githubusercontent.com/joshuakaras/spheres-5e/main/module.json",
-	"download": "https://github.com/joshuakaras/spheres-5e/releases/download/release-1.0.4/spheres-5e-1.0.4.zip"
+	"download": "https://github.com/joshuakaras/spheres-5e/releases/download/release-1.1.0/spheres-5e-1.1.0.zip"
 }
